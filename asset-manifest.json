@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ba01a272.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/map.png": "/static/media/map.808a051ff4905c38a0c8.png",
+    "static/media/hero1.png": "/static/media/hero1.9933aff200ac1a31920f.png",
+    "static/media/hero3.png": "/static/media/hero3.075d3656d491ed7ec95d.png",
+    "static/media/hero2.png": "/static/media/hero2.426c51f6d9371565ef37.png",
+    "static/media/hero4.png": "/static/media/hero4.d0dd981cc4c76aa3089a.png",
+    "static/media/camper.png": "/static/media/camper.2bbd735d9cb8d15c310f.png",
+    "static/media/bth_hero_typo2.png": "/static/media/bth_hero_typo2.febc831af7f35dc6bc2f.png",
+    "static/media/bth_hero_typo1.png": "/static/media/bth_hero_typo1.774601cc7dfb0515b2b0.png",
+    "static/media/border_to_hel_typo.png": "/static/media/border_to_hel_typo.a28e05acfb42586f9a28.png",
+    "static/media/swords.svg": "/static/media/swords.93b80ff13746f7102049879372f94133.svg",
+    "static/media/ig.svg": "/static/media/ig.0906ff91fd0593ad4992cc2282af2761.svg",
+    "static/media/satisfy.svg": "/static/media/satisfy.3f6d998faf4b6957dd7eb47cc9590239.svg",
+    "static/media/nb.svg": "/static/media/nb.66742d64211150bc73a28fa6026a20a0.svg",
+    "index.html": "/index.html",
+    "static/media/fb.svg": "/static/media/fb.37654ddaff71846ded97347728a79208.svg",
+    "main.ba01a272.js.map": "/static/js/main.ba01a272.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ba01a272.js"
+  ]
+}
